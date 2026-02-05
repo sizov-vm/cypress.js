@@ -20,13 +20,13 @@
 ![image](https://raw.githubusercontent.com/sizov-vm/cypress.js/refs/heads/main/new_cypress-main/1.png)
 
 2. Применение хуков beforeEach и afterEach
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/hooks.png)
+![image](https://raw.githubusercontent.com/sizov-vm/cypress.js/refs/heads/main/new_cypress-main/2.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/user_data.png)
+![image](https://raw.githubusercontent.com/sizov-vm/cypress.js/refs/heads/main/new_cypress-main/3.png)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png)
+![image](https://raw.githubusercontent.com/sizov-vm/cypress.js/refs/heads/main/new_cypress-main/4.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
@@ -36,8 +36,8 @@
 npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 ```
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/Cypress_cli.png)
-
+![image](https://raw.githubusercontent.com/sizov-vm/cypress.js/refs/heads/main/new_cypress-main/5.png)
+![image](https://raw.githubusercontent.com/sizov-vm/cypress.js/refs/heads/main/new_cypress-main/6.png)
 
 ## Локальный запуск через Cypress UI
 1. Скачать проект и открыть в терминале.
@@ -49,9 +49,9 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 7. Выбрать спеку lesson_locators
 
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/Cypress_UI.png)
+![image](https://raw.githubusercontent.com/sizov-vm/cypress.js/refs/heads/main/new_cypress-main/7.png)
 
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Владимир Сизов ([@dolnikov](https://t.me/dolnikov))
